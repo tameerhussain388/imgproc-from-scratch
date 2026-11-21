@@ -32,7 +32,7 @@ imgproc-from-scratch/
 │   └── test_filters.py  # Pytest suite verifying mathematical invariants & OpenCV parity
 ├── results/             # High-resolution output figures and benchmark tables
 ├── requirements.txt     # Python dependencies
-├── LEARNING_LOG.md      # Detailed engineering logbook & theoretical derivations
+├── THEORY.md            # Mathematical derivations & interview notes
 └── README.md
 ```
 
